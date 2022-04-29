@@ -1,13 +1,13 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Senini's%20Github&fontSize=40)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:93B5C6,100:FFE3E3,r&height=250&section=header&text=Senini's%20Github&fontSize=30&fontColor=F6F6F6)<br>
 ![6](https://user-images.githubusercontent.com/80515918/165951824-582fb0ea-8c54-4f94-b554-2f05c5923ed7.gif)
 <br>
 <br><br>
  <a href="https://blog.naver.com/duck_sim" target="_blank"><img src="https://img.shields.io/badge/Blog-808080?style=flat&logo=Blogger&logoColor=white"/></a>
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F??style=flat&logo=Instagram&logoColor=white"/></a>
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2??style=flat&logo=Facebook&logoColor=white"/></a>
+ <a href="https://www.instagram.com/senini_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F??style=flat&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.facebook.com/profile.php?id=100007526341610" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2??style=flat&logo=Facebook&logoColor=white"/></a>
  <br>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoseeun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
