@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:93B5C6,100:FFE3E3,r&height=250&section=header&text=Senini's%20Github&fontSize=30&fontColor=F6F6F6)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:181717,100:181717,r&height=250&section=header&text=Senini's%20Github&fontSize=30&fontColor=F6F6F6)<br>
 ![6](https://user-images.githubusercontent.com/80515918/165951824-582fb0ea-8c54-4f94-b554-2f05c5923ed7.gif)
 <br>
 <br><br>
